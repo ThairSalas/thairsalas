@@ -1,10 +1,14 @@
 ## Hi there 👋
 
+⚛ I'm a physics undergrad student at the Universidad Veracruzana, currently working on my thesis in gravity theory. 
+
 <!--
+⚛ I'm a physics student, interested in high energy physics
+
 **ThairSalas/thairsalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ⚛ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
