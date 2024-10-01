@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-⚛ I'm a physics undergrad student at the Universidad Veracruzana, currently working on my thesis in gravity theory. 
+⚛ I'm a physics undergrad student at the Universidad Veracruzana, I enjoy particle physics and gravity theory. 
 
 <!--
 ⚛ I'm a physics student, interested in high energy physics
